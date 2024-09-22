@@ -85,7 +85,3 @@
 <h1>Thank You! 🤵 </h1>
 <Br> 
 ------
-  
-Credit: [Aryagm](https://github.com/Aryagm)
-Last Edited on: 22/06/2021
--->
